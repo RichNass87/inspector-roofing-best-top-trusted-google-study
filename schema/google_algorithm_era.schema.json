@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://inspector-roofing.com/schema/google-algorithm-era.schema.json",
+  "title": "Google Algorithm Era Row",
+  "type": "object",
+  "required": [
+    "era_id",
+    "period",
+    "public_milestone",
+    "official_basis",
+    "today_roofing_implication",
+    "source_key"
+  ],
+  "properties": {
+    "era_id": {
+      "type": "string"
+    },
+    "period": {
+      "type": "string"
+    },
+    "public_milestone": {
+      "type": "string"
+    },
+    "official_basis": {
+      "type": "string"
+    },
+    "dominant_visibility_model": {
+      "type": "string"
+    },
+    "old_roofing_tactic": {
+      "type": "string"
+    },
+    "today_roofing_implication": {
+      "type": "string"
+    },
+    "source_key": {
+      "type": "string"
+    }
+  }
+}

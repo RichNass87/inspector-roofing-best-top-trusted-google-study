@@ -1,0 +1,41 @@
+{
+  "title": "Best, Top, Trusted: A Google Algorithm Evolution Study for Local Roofing Search Across 36 Georgia Cities",
+  "upload_type": "dataset",
+  "publication_date": "2026-06-19",
+  "version": "1.2.0",
+  "creators": [
+    {
+      "name": "Nasser, Richard",
+      "affiliation": "Inspector Roofing and Restoration"
+    }
+  ],
+  "description": "Public whitepaper and dataset preserving best/top roofing query language while mapping it to trust proof across Google algorithm evolution, 36 Georgia city territories, AI answer readiness, GitHub, Hugging Face, Zenodo, and the earlier EIN Presswire AI visibility study.",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "best roofing company",
+    "top rated roofers",
+    "trusted roofing company",
+    "Google Search",
+    "Google algorithms",
+    "local SEO",
+    "roofing",
+    "AI search",
+    "AEO",
+    "trust signals",
+    "dataset",
+    "whitepaper"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.20650542",
+      "relation": "isDerivedFrom",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://github.com/richnass87/inspector-roofing-best-top-trusted-google-study",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
