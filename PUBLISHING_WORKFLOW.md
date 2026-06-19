@@ -5,10 +5,10 @@
 ```bash
 git init
 git add .
-git commit -m "Release v1.2.0 best top trusted Google roofing search study"
+git commit -m "Release v1.0.3 best top trusted Google roofing search study"
 gh repo create richnass87/inspector-roofing-best-top-trusted-google-study --public --source=. --push
-git tag -a v1.2.0 -m "v1.2.0"
-git push origin v1.2.0
+git tag -a v1.0.3 -m "v1.0.3"
+git push origin v1.0.3
 ```
 
 ## 2. Zenodo DOI
@@ -16,10 +16,12 @@ git push origin v1.2.0
 Enable Zenodo archiving for the public GitHub repository, then create the GitHub release:
 
 ```bash
-gh release create v1.2.0 --title "Best, Top, Trusted: A Google Algorithm Evolution Study for Local Roofing Search Across 36 Georgia Cities v1.2.0" --notes-file RELEASE_NOTES.md
+gh release create v1.0.3 --title "Best, Top, Trusted: A Google Algorithm Evolution Study for Local Roofing Search Across 36 Georgia Cities v1.0.3" --notes-file RELEASE_NOTES.md
 ```
 
-After Zenodo mints the DOI, update `README.md`, `CITATION.cff`, `.zenodo.json`, `RELEASE_NOTES.md`, website pages, and press materials.
+Zenodo DOI minted for v1.0.3: `10.5281/zenodo.20763886`.
+
+After Zenodo mints a DOI, update `README.md`, `CITATION.cff`, `.zenodo.json`, `RELEASE_NOTES.md`, website pages, and press materials.
 
 ## 3. Hugging Face Dataset
 

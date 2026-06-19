@@ -32,7 +32,7 @@ size_categories:
 **Release date:** 2026-06-19  
 **Publisher:** Inspector Roofing and Restoration  
 **Creator:** Richard Nasser  
-**DOI:** Pending Zenodo release  
+**DOI:** 10.5281/zenodo.20763886  
 **Predecessor AI visibility DOI:** 10.5281/zenodo.20650542  
 **Repository:** https://github.com/richnass87/inspector-roofing-best-top-trusted-google-study  
 **Hugging Face dataset:** https://huggingface.co/datasets/richnass87/inspector-roofing-best-top-trusted-google-study
@@ -79,4 +79,4 @@ Do not use the dataset to create doorway pages, fake service areas, fabricated r
 
 ## Suggested Citation
 
-Nasser, Richard. *Best, Top, Trusted: A Google Algorithm Evolution Study for Local Roofing Search Across 36 Georgia Cities*. Version 1.2.0. Inspector Roofing and Restoration, 2026-06-19. DOI pending Zenodo release. Derived from predecessor AI visibility DOI 10.5281/zenodo.20650542.
+Nasser, Richard. *Best, Top, Trusted: A Google Algorithm Evolution Study for Local Roofing Search Across 36 Georgia Cities*. Version 1.0.3. Inspector Roofing and Restoration, 2026-06-19. DOI: 10.5281/zenodo.20763886. Derived from predecessor AI visibility DOI 10.5281/zenodo.20650542.

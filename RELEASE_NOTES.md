@@ -1,4 +1,4 @@
-# Release Notes - v1.2.0
+# Release Notes - v1.0.3
 
 ## Release Name
 
@@ -23,3 +23,7 @@ Inspector Roofing Releases Best, Top, and Trusted Roofing Search Study Mapping G
 Best and top remain valuable because homeowners still use them. The modern strategy is to publish them as query evidence and route them into proof: trust modules, reviews, GBP consistency, photos, structured data, press/source trails, GitHub, Hugging Face, and DOI-backed research.
 
 The "10 blue links" framing is included as commentary and paired with research and official Google guidance so the public message stays strong without overclaiming.
+
+## DOI
+
+Zenodo DOI: 10.5281/zenodo.20763886

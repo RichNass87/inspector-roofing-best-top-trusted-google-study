@@ -1,11 +1,12 @@
 cff-version: 1.2.0
-message: "If you use this study or dataset, please cite the v1.2.0 release. Add the Zenodo DOI after deposit."
+message: "If you use this study or dataset, please cite the v1.0.3 Zenodo release."
 type: dataset
 title: "Best, Top, Trusted: A Google Algorithm Evolution Study for Local Roofing Search Across 36 Georgia Cities"
-version: "1.2.0"
+version: "1.0.3"
 date-released: "2026-06-19"
 repository-code: "https://github.com/richnass87/inspector-roofing-best-top-trusted-google-study"
 url: "https://github.com/richnass87/inspector-roofing-best-top-trusted-google-study"
+doi: "10.5281/zenodo.20763886"
 license: "CC-BY-4.0"
 authors:
   - family-names: "Nasser"
@@ -16,6 +17,9 @@ abstract: >-
   local roofing search, 36 Georgia cities, AI answer readiness, GitHub,
   Hugging Face, Zenodo, and the earlier EIN Presswire AI visibility study.
 identifiers:
+  - type: doi
+    value: 10.5281/zenodo.20763886
+    description: Zenodo DOI for the v1.0.3 release.
   - type: doi
     value: 10.5281/zenodo.20650542
     description: Predecessor DOI for the Roofing Near Me AI Visibility Study.

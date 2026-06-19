@@ -2,7 +2,7 @@
   "title": "Best, Top, Trusted: A Google Algorithm Evolution Study for Local Roofing Search Across 36 Georgia Cities",
   "upload_type": "dataset",
   "publication_date": "2026-06-19",
-  "version": "1.2.0",
+  "version": "1.0.3",
   "creators": [
     {
       "name": "Nasser, Richard",
@@ -27,6 +27,11 @@
     "whitepaper"
   ],
   "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.20763886",
+      "relation": "isIdenticalTo",
+      "scheme": "doi"
+    },
     {
       "identifier": "10.5281/zenodo.20650542",
       "relation": "isDerivedFrom",

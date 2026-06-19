@@ -1,11 +1,12 @@
 # Best, Top, Trusted: A Google Algorithm Evolution Study for Local Roofing Search Across 36 Georgia Cities
 
-**Version:** 1.2.0  
+**Version:** 1.0.3  
 **Date:** 2026-06-19  
 **Prepared for:** Inspector Roofing and Restoration, Richard Nasser, GitHub, Hugging Face, Zenodo DOI, website publication, and press release  
 **Public release headline:** Inspector Roofing Releases Best, Top, and Trusted Roofing Search Study Mapping Google Algorithm Evolution Across 36 Georgia Cities  
 **Dataset scope:** 36 Georgia service territories, 56 query templates, 2016 localized query rows  
 **Predecessor AI visibility DOI:** 10.5281/zenodo.20650542
+**Zenodo DOI:** 10.5281/zenodo.20763886
 
 ## Core Thesis
 
@@ -38,7 +39,7 @@ The issue is not whether to use the phrases. The issue is how to use them. The o
 - Which local contractor is legitimate in my city?
 - Which business can Google, maps, reviews, press, and AI systems understand consistently?
 
-The v1.2.0 dataset therefore keeps best/top terms but moves them into a phrase bridge. The bridge maps each modifier to its old role, its current role, safe usage, unsafe usage, proof needed, and recommended page role.
+The v1.0.3 dataset therefore keeps best/top terms but moves them into a phrase bridge. The bridge maps each modifier to its old role, its current role, safe usage, unsafe usage, proof needed, and recommended page role.
 
 ## 2. Google Evolution: From Keyword Match To Trust Proof
 
@@ -112,7 +113,7 @@ That distinction matters. It creates public connection without false ranking cla
 
 The source spine links the earlier EIN Presswire AI visibility release, the prior DOI-backed Roofer Near Me work, this GitHub repository, and the public dataset card so the city/query rows are part of a citable release rather than isolated SEO copy.
 
-The EIN distribution report is useful as a press/source-trail reference. It shows that the earlier "Roofer Near Me" AI visibility study had a public press distribution event on June 17, 2026. It should not be described as an endorsement by Google, Bing, ChatGPT, Gemini, or any news outlet. The safe use is to say that the earlier study was press-distributed and that this v1.2.0 GitHub/Zenodo package extends that public research trail.
+The EIN distribution report is useful as a press/source-trail reference. It shows that the earlier "Roofer Near Me" AI visibility study had a public press distribution event on June 17, 2026. It should not be described as an endorsement by Google, Bing, ChatGPT, Gemini, or any news outlet. The safe use is to say that the earlier study was press-distributed and that this v1.0.3 GitHub/Zenodo package extends that public research trail.
 
 The user-provided YouTube breakdown, *The Era of 10 Blue Links Is Over (Google I/O Search + May 2026 Core Update)*, is also included as a commentary source. Because this release could not verify an official Google Search Status Dashboard record for a May 2026 core update, the video is used for public framing, not as the primary factual basis for Google's algorithm history. The factual backbone remains Google Search documentation and the cited public research sources.
 
@@ -147,7 +148,7 @@ For every city, avoid claiming:
 - Credentials, licensing, insurance, BBB, or manufacturer status without current proof.
 - AI answer inclusion or Google ranking guarantees.
 
-## 9. Dataset Files Added In v1.2.0
+## 9. Dataset Files Added In v1.0.3
 
 This release adds or updates:
 
@@ -202,7 +203,8 @@ The next strongest version would add empirical data: Search Console query cluste
 16. TechRadar. *Google's Search makeover incorporates yet more AI, but Google promises to leave room for classic results.* May 19, 2026.
 17. WIRED. *Everything Announced at Google I/O 2026.* May 2026.
 18. EIN Presswire / Inspector Roofing source material. *Alpharetta Roofing Founder Turns 'Roofer Near Me' Into a Public AI Visibility Study.* Distributed June 17, 2026.
-19. Zenodo predecessor DOI. 10.5281/zenodo.20650542
-20. GitHub Docs. *About CITATION files.* https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files
-21. Hugging Face. *Dataset Cards.* https://huggingface.co/docs/hub/datasets-cards
-22. GitHub Docs. *Referencing and citing content.* https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content
+19. Zenodo release DOI. 10.5281/zenodo.20763886
+20. Zenodo predecessor DOI. 10.5281/zenodo.20650542
+21. GitHub Docs. *About CITATION files.* https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files
+22. Hugging Face. *Dataset Cards.* https://huggingface.co/docs/hub/datasets-cards
+23. GitHub Docs. *Referencing and citing content.* https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content
