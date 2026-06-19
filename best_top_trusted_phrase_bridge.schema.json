@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://inspector-roofing.com/schema/best-top-trusted-phrase-bridge.schema.json",
+  "title": "Best Top Trusted Phrase Bridge Row",
+  "type": "object",
+  "required": [
+    "phrase_family",
+    "example_queries",
+    "today_google_role",
+    "safe_usage",
+    "unsafe_usage",
+    "proof_needed",
+    "recommended_page_role"
+  ],
+  "properties": {
+    "phrase_family": {
+      "type": "string"
+    },
+    "example_queries": {
+      "type": "string"
+    },
+    "old_google_role": {
+      "type": "string"
+    },
+    "today_google_role": {
+      "type": "string"
+    },
+    "safe_usage": {
+      "type": "string"
+    },
+    "unsafe_usage": {
+      "type": "string"
+    },
+    "proof_needed": {
+      "type": "string"
+    },
+    "recommended_page_role": {
+      "type": "string"
+    }
+  }
+}

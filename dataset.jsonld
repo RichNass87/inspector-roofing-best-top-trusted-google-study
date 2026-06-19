@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Best, Top, Trusted: A Google Algorithm Evolution Study for Local Roofing Search Across 36 Georgia Cities",
+  "description": "A public dataset and whitepaper mapping best/top/trusted local roofing search language to proof standards across Google algorithm evolution and 36 Georgia cities.",
+  "creator": {
+    "@type": "Person",
+    "name": "Richard Nasser"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Inspector Roofing and Restoration",
+    "url": "https://inspector-roofing.com/"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "version": "1.2.0",
+  "datePublished": "2026-06-19",
+  "keywords": [
+    "best roofing company",
+    "top rated roofers",
+    "trusted roofing company",
+    "Google Search",
+    "local SEO",
+    "roofing",
+    "AI search",
+    "Google Business Profile",
+    "trust signals"
+  ],
+  "isBasedOn": "10.5281/zenodo.20650542",
+  "variableMeasured": [
+    "algorithm era",
+    "best/top/trusted phrase family",
+    "city association",
+    "local search intent",
+    "territory",
+    "query template",
+    "trust signal",
+    "page recommendation"
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "data/best_top_trusted_phrase_bridge.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "data/best_top_trust_city_association_map.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "data/google_algorithm_eras.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "data/territory_query_algorithm_matrix.csv"
+    }
+  ],
+  "mainEntityOfPage": "whitepaper/best-top-trusted-google-evolution-roofing-study-v1.2.pdf"
+}

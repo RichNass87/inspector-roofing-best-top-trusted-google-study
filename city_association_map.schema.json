@@ -1,0 +1,79 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://inspector-roofing.com/schema/city-association-map.schema.json",
+  "title": "Best Top Trust City Association Row",
+  "type": "object",
+  "required": [
+    "city_association_id",
+    "territory_id",
+    "city",
+    "best_query",
+    "top_query",
+    "trusted_query",
+    "association_statement",
+    "proof_required",
+    "github_repository"
+  ],
+  "properties": {
+    "city_association_id": {
+      "type": "string"
+    },
+    "territory_id": {
+      "type": "string"
+    },
+    "city": {
+      "type": "string"
+    },
+    "state": {
+      "type": "string"
+    },
+    "territory_url": {
+      "type": "string"
+    },
+    "audited_status": {
+      "type": "string"
+    },
+    "best_query": {
+      "type": "string"
+    },
+    "top_query": {
+      "type": "string"
+    },
+    "trusted_query": {
+      "type": "string"
+    },
+    "reputable_query": {
+      "type": "string"
+    },
+    "association_statement": {
+      "type": "string"
+    },
+    "recommended_page_module": {
+      "type": "string"
+    },
+    "proof_required": {
+      "type": "string"
+    },
+    "safe_public_wording": {
+      "type": "string"
+    },
+    "ai_visibility_press_reference": {
+      "type": "string"
+    },
+    "ai_visibility_study_doi": {
+      "type": "string"
+    },
+    "github_repository": {
+      "type": "string"
+    },
+    "website_study_page": {
+      "type": "string"
+    },
+    "best_vs_trusted_hub": {
+      "type": "string"
+    },
+    "source_spine_links": {
+      "type": "string"
+    }
+  }
+}
