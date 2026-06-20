@@ -1,0 +1,12 @@
+{
+  "version": "v1.2.2",
+  "repository_target": "https://github.com/InspectorRoofing/inspector-roofing-best-top-trusted-book",
+  "website": "https://www.inspectorroofing.com",
+  "book_page": "https://www.inspectorroofing.com/from-best-to-trusted-ai-readable-book/",
+  "source_spine_page": "https://www.inspectorroofing.com/inspector-roofing-ai-readable-source-spine/",
+  "best_top_test_page": "https://www.inspectorroofing.com/best-top-roofing-search-test-page/",
+  "ai_visibility_page": "https://www.inspectorroofing.com/roofing-near-me-ai-visibility-study/",
+  "hugging_face_dataset": "https://huggingface.co/datasets/InspectorRoofing/inspector-roofing-best-top-trusted-google-study",
+  "doi": "https://doi.org/10.5281/zenodo.20763886",
+  "amazon": "https://www.amazon.com/dp/B0H63DV2LR"
+}

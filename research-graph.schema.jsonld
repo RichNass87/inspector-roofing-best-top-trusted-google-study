@@ -1,0 +1,51 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.inspectorroofing.com/#richard-nasser",
+      "name": "Richard Nasser",
+      "sameAs": [
+        "https://orcid.org/TO-BE-ADDED",
+        "https://github.com/RichNass87/inspector-roofing-best-top-trusted-google-study",
+        "https://www.amazon.com/dp/B0H63DV2LR"
+      ]
+    },
+    {
+      "@type": "Book",
+      "@id": "https://www.amazon.com/dp/B0H63DV2LR#book",
+      "name": "From Best to Trusted: How Google, AI Answers, Trust Signals, and Local Roofing Apps Changed Search",
+      "author": {
+        "@id": "https://www.inspectorroofing.com/#richard-nasser"
+      },
+      "url": "https://www.amazon.com/dp/B0H63DV2LR",
+      "isbn": "979-8182325264"
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://doi.org/10.5281/zenodo.20763886#dataset",
+      "name": "Best, Top, Trusted County-Complete Roofing Search Dataset",
+      "identifier": "https://doi.org/10.5281/zenodo.20763886",
+      "url": "https://huggingface.co/datasets/InspectorRoofing/inspector-roofing-best-top-trusted-google-study",
+      "sameAs": [
+        "https://www.kaggle.com/datasets/richnass87/inspector-roofing-best-top-trusted-google-study",
+        "https://osf.io/TO-BE-ADDED",
+        "https://github.com/RichNass87/inspector-roofing-best-top-trusted-google-study"
+      ]
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://github.com/RichNass87/roofing-near-me-ai-visibility-study#study",
+      "name": "Roofing Near Me AI Visibility Study",
+      "url": "https://github.com/RichNass87/roofing-near-me-ai-visibility-study",
+      "sameAs": [
+        "https://richnass87.github.io/roofing-near-me-ai-visibility-study/"
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.inspectorroofing.com/best-top-roofing-search-test-page/#webpage",
+      "name": "Best and Top Roofing Search Test Page"
+    }
+  ]
+}

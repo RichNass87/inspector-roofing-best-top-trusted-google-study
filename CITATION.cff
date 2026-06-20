@@ -1,37 +1,17 @@
 cff-version: 1.2.0
-message: "If you use this study or dataset, please cite the v1.0.3 Zenodo release."
-type: dataset
-title: "Best, Top, Trusted: A Google Algorithm Evolution Study for Local Roofing Search Across 36 Georgia Cities"
-version: "1.0.3"
-date-released: "2026-06-19"
-repository-code: "https://github.com/richnass87/inspector-roofing-best-top-trusted-google-study"
-url: "https://github.com/richnass87/inspector-roofing-best-top-trusted-google-study"
-doi: "10.5281/zenodo.20763886"
-license: "CC-BY-4.0"
+message: "If you use this source spine, please cite the DOI."
+title: "From Best to Trusted: How Google, AI Answers, Trust Signals, and Local Roofing Apps Changed Search"
+type: book
 authors:
   - family-names: "Nasser"
     given-names: "Richard"
-abstract: >-
-  A public whitepaper and dataset preserving best and top roofing query
-  language while mapping it to trust evidence across Google algorithm evolution,
-  local roofing search, 36 Georgia cities, AI answer readiness, GitHub,
-  Hugging Face, Zenodo, and the earlier EIN Presswire AI visibility study.
+doi: "10.5281/zenodo.20763886"
+url: "https://github.com/InspectorRoofing/inspector-roofing-best-top-trusted-book"
+date-released: "2026-06-19"
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.20763886
-    description: Zenodo DOI for the v1.0.3 release.
-  - type: doi
-    value: 10.5281/zenodo.20650542
-    description: Predecessor DOI for the Roofing Near Me AI Visibility Study.
-keywords:
-  - best roofing company
-  - top rated roofers
-  - trusted roofing company
-  - Google Search
-  - Google algorithms
-  - local SEO
-  - roofing
-  - AI search
-  - AEO
-  - trust signals
-  - dataset
+    value: "10.5281/zenodo.20763886"
+  - type: url
+    value: "https://huggingface.co/datasets/InspectorRoofing/inspector-roofing-best-top-trusted-google-study"
+  - type: url
+    value: "https://www.amazon.com/dp/B0H63DV2LR"

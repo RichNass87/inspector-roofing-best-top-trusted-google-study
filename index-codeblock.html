@@ -1,0 +1,25 @@
+<section class="hero"><div class="wrap">
+<h1>Inspector Roofing AI-Readable Source Spine</h1>
+<p class="lede">Searchable TOC and AI-readable source hub connecting From Best to Trusted, AI visibility, DOI, GitHub, Hugging Face, Kaggle, OSF, ORCID, Amazon, and website pages.</p>
+<nav class="links">
+<a href="https://doi.org/10.5281/zenodo.20763886">DOI</a><a href="https://github.com/RichNass87/inspector-roofing-best-top-trusted-google-study">GitHub</a><a href="https://huggingface.co/datasets/InspectorRoofing/inspector-roofing-best-top-trusted-google-study">Hugging Face</a><a href="https://github.com/RichNass87/roofing-near-me-ai-visibility-study">AI Visibility</a><a href="https://www.amazon.com/dp/B0H63DV2LR">Amazon</a>
+</nav>
+</div></section>
+<main class="wrap">
+<h2>Search The Source Spine</h2>
+<p>This page is built for humans and AI crawlers. Search across the book, AI visibility study, best/top test page, DOI links, GitHub, Hugging Face, Kaggle, OSF, ORCID placeholders, and website pages.</p>
+<input id="q" class="searchbox" placeholder="Search best, top, trusted, AI visibility, DOI, county, smart footer...">
+<div id="results"></div>
+<script>
+const records = [{"title": "From Best to Trusted Book", "summary": "KDP-ready book about best, top, trusted, AI answers, trust signals, apps, cities, counties, and roofing SEO.", "keywords": "best roofer near me top rated roofing company trusted roofer AI visibility KDP Amazon", "url": "https://www.inspectorroofing.com/from-best-to-trusted-ai-readable-book/"}, {"title": "Roofing Near Me AI Visibility Study", "summary": "AI visibility research track for roofing near me and answer-ready local SEO.", "keywords": "roofing near me AI visibility Google AI answers", "url": "https://www.inspectorroofing.com/roofing-near-me-ai-visibility-study/"}, {"title": "Best and Top Test Page", "summary": "Testing page for best/top/trusted query intent and evidence standards.", "keywords": "best top trusted reputable roof repair roof replacement storm damage", "url": "https://www.inspectorroofing.com/best-top-roofing-search-test-page/"}, {"title": "Hugging Face Dataset", "summary": "Dataset card and CSV files for source spine, city/county scope, apps, and query intent.", "keywords": "hugging face dataset card local seo roofing", "url": "https://huggingface.co/datasets/InspectorRoofing/inspector-roofing-best-top-trusted-google-study"}, {"title": "Zenodo DOI", "summary": "Stable DOI record for citation.", "keywords": "doi zenodo citation dataset whitepaper", "url": "https://doi.org/10.5281/zenodo.20763886"}, {"title": "Kaggle Dataset Placeholder", "summary": "Kaggle dataset target for mirrored dataset discovery.", "keywords": "kaggle dataset roofing seo", "url": "https://www.kaggle.com/datasets/richnass87/inspector-roofing-best-top-trusted-google-study"}, {"title": "OSF Project Placeholder", "summary": "OSF project target for open science style archive and materials.", "keywords": "osf open science framework roofing search study", "url": "https://osf.io/TO-BE-ADDED"}, {"title": "ORCID Author Placeholder", "summary": "ORCID profile target for Richard Nasser author identity.", "keywords": "orcid richard nasser author researcher", "url": "https://orcid.org/TO-BE-ADDED"}];
+const q = document.getElementById('q');
+const results = document.getElementById('results');
+function render(term='') {
+  const t = term.toLowerCase();
+  const filtered = records.filter(r => !t || (r.title + ' ' + r.summary + ' ' + r.keywords).toLowerCase().includes(t));
+  results.innerHTML = filtered.map(r => `<article class="card"><h2>${r.title}</h2><p>${r.summary}</p><p><strong>Keywords:</strong> ${r.keywords}</p><p><a href="${r.url}">Open source</a></p></article>`).join('');
+}
+q.addEventListener('input', e => render(e.target.value));
+render();
+</script>
+</main>
