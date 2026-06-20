@@ -1,0 +1,103 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.inspectorroofing.com/#richard-nasser",
+      "name": "Richard Nasser",
+      "sameAs": [
+        "https://orcid.org/TO-BE-ADDED",
+        "https://github.com/RichNass87/inspector-roofing-best-top-trusted-google-study",
+        "https://www.academia.edu/168911051/From_Best_to_Trusted_A_DOI_Backed_Study_of_Google_Algorithm_Evolution_AI_Answers_Trust_Signals_and_Local_Roofing_Search",
+        "https://www.amazon.com/dp/B0H63DV2LR"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.inspectorroofing.com/#organization",
+      "name": "Inspector Roofing and Restoration",
+      "url": "https://www.inspectorroofing.com"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.20763886#paper",
+      "headline": "From Best to Trusted: A DOI-Backed Study of Google Algorithm Evolution, AI Answers, Trust Signals, and Local Roofing Search",
+      "name": "From Best to Trusted: A DOI-Backed Study of Google Algorithm Evolution, AI Answers, Trust Signals, and Local Roofing Search",
+      "author": {
+        "@id": "https://www.inspectorroofing.com/#richard-nasser"
+      },
+      "publisher": {
+        "@id": "https://www.inspectorroofing.com/#organization"
+      },
+      "datePublished": "2026-06-19",
+      "identifier": "10.5281/zenodo.20763886",
+      "url": "https://doi.org/10.5281/zenodo.20763886",
+      "sameAs": [
+        "https://www.academia.edu/168911051/From_Best_to_Trusted_A_DOI_Backed_Study_of_Google_Algorithm_Evolution_AI_Answers_Trust_Signals_and_Local_Roofing_Search",
+        "https://github.com/RichNass87/inspector-roofing-best-top-trusted-google-study",
+        "https://huggingface.co/datasets/InspectorRoofing/inspector-roofing-best-top-trusted-google-study",
+        "https://www.amazon.com/dp/B0H63DV2LR",
+        "https://richnass87.github.io/roofing-near-me-ai-visibility-study/"
+      ],
+      "citation": [
+        "https://doi.org/10.5281/zenodo.20763886",
+        "https://www.academia.edu/168911051/From_Best_to_Trusted_A_DOI_Backed_Study_of_Google_Algorithm_Evolution_AI_Answers_Trust_Signals_and_Local_Roofing_Search",
+        "https://github.com/RichNass87/inspector-roofing-best-top-trusted-google-study",
+        "https://huggingface.co/datasets/InspectorRoofing/inspector-roofing-best-top-trusted-google-study",
+        "https://www.amazon.com/dp/B0H63DV2LR",
+        "https://richnass87.github.io/roofing-near-me-ai-visibility-study/",
+        "https://github.com/RichNass87/roofing-near-me-ai-visibility-study"
+      ],
+      "about": [
+        "Google algorithm evolution",
+        "AI visibility",
+        "local roofing search",
+        "trust signals",
+        "best roofer near me",
+        "top rated roofing company"
+      ]
+    },
+    {
+      "@type": "Book",
+      "@id": "https://www.amazon.com/dp/B0H63DV2LR#book",
+      "name": "From Best to Trusted: How Google, AI Answers, and Trust Signals Changed Local Roofing Search",
+      "author": {
+        "@id": "https://www.inspectorroofing.com/#richard-nasser"
+      },
+      "isbn": "979-8182325264",
+      "url": "https://www.amazon.com/dp/B0H63DV2LR",
+      "sameAs": [
+        "https://doi.org/10.5281/zenodo.20763886",
+        "https://www.academia.edu/168911051/From_Best_to_Trusted_A_DOI_Backed_Study_of_Google_Algorithm_Evolution_AI_Answers_Trust_Signals_and_Local_Roofing_Search"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://huggingface.co/datasets/InspectorRoofing/inspector-roofing-best-top-trusted-google-study#dataset",
+      "name": "Inspector Roofing AI-Readable Source Spine",
+      "creator": {
+        "@id": "https://www.inspectorroofing.com/#richard-nasser"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "url": "https://huggingface.co/datasets/InspectorRoofing/inspector-roofing-best-top-trusted-google-study",
+      "sameAs": [
+        "https://doi.org/10.5281/zenodo.20763886",
+        "https://github.com/RichNass87/inspector-roofing-best-top-trusted-google-study",
+        "https://www.kaggle.com/datasets/richnass87/inspector-roofing-best-top-trusted-google-study"
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.inspectorroofing.com/from-best-to-trusted-roofing-search-study/#webpage",
+      "url": "https://www.inspectorroofing.com/from-best-to-trusted-roofing-search-study/",
+      "name": "From Best to Trusted: Roofing Search Study Source Spine",
+      "isPartOf": {
+        "@id": "https://www.inspectorroofing.com/#website"
+      },
+      "primaryImageOfPage": "https://www.inspectorroofing.com/wp-content/uploads/from-best-to-trusted-cover.jpg",
+      "mainEntity": {
+        "@id": "https://doi.org/10.5281/zenodo.20763886#paper"
+      }
+    }
+  ]
+}
