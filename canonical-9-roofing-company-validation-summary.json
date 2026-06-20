@@ -1,0 +1,27 @@
+{
+  "canonical_count": 9,
+  "slugs": [
+    "chamblee-roofing-company",
+    "norcross-roofing-company",
+    "roofing-company-peachtree-corners-ga",
+    "duluth-roofing-company",
+    "lilburn-roofing-company",
+    "lawrenceville-roofing-company",
+    "roofing-company-buford-ga",
+    "roofing-company-gainesville-ga",
+    "ball-ground-roofing-company"
+  ],
+  "body_blocks": "/Users/richardnasser/Documents/Codex/2026-06-14/files-mentioned-by-the-user-pasted/outputs/canonical-9-roofing-company-overwrite-import.csv",
+  "schema_map": "/Users/richardnasser/Documents/Codex/2026-06-14/files-mentioned-by-the-user-pasted/outputs/canonical-9-roofing-company-schema-map-no-carousel.csv",
+  "copy_paste_markdown": "/Users/richardnasser/Documents/Codex/2026-06-14/files-mentioned-by-the-user-pasted/outputs/canonical-9-roofing-company-overwrite-codeblocks.md",
+  "body_codeblock_folder": "/Users/richardnasser/Documents/Codex/2026-06-14/files-mentioned-by-the-user-pasted/outputs/canonical-9-roofing-company-codeblocks",
+  "schema_folder": "/Users/richardnasser/Documents/Codex/2026-06-14/files-mentioned-by-the-user-pasted/outputs/canonical-9-roofing-company-schemas",
+  "checks": {
+    "one_public_section_each": true,
+    "one_h1_each": true,
+    "hero_h1_forced_white": true,
+    "no_product_or_itemlist_or_offer_schema": true,
+    "valid_jsonld_each": true,
+    "valid_breadcrumb_items_each": true
+  }
+}

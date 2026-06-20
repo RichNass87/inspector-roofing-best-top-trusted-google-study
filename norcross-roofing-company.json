@@ -1,0 +1,282 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://inspector-roofing.com/norcross-roofing-company/#webpage",
+      "url": "https://inspector-roofing.com/norcross-roofing-company/",
+      "name": "Norcross Roofing Company | Roof Replacement, Repair, Inspection & Claims",
+      "headline": "Norcross Roofing Company for Roof Replacement, Roof Repair, Roof Inspection and Insurance Claims",
+      "description": "Inspector Roofing serves Norcross with inspection-first roof replacement, roof repair, roof inspections, storm damage documentation, retail roofing, financing guidance, and insurance-ready roof files.",
+      "keywords": [
+        "Norcross roofing company",
+        "roof inspection Norcross GA",
+        "roof repair Norcross GA",
+        "roof replacement Norcross GA",
+        "storm damage roof inspection Norcross GA",
+        "insurance roof inspection Norcross GA",
+        "insurance roofing company Norcross GA",
+        "roof financing Norcross GA",
+        "residential roofing Norcross GA",
+        "commercial roofing Norcross GA",
+        "Inspector Roofing Protocols Norcross"
+      ],
+      "inLanguage": "en-US",
+      "primaryImageOfPage": {
+        "@id": "https://inspector-roofing.com/norcross-roofing-company/#primaryimage"
+      },
+      "mainEntity": {
+        "@id": "https://inspector-roofing.com/norcross-roofing-company/#service"
+      },
+      "about": [
+        {
+          "@id": "https://inspector-roofing.com/norcross-roofing-company/#service"
+        },
+        {
+          "@id": "https://inspector-roofing.com/norcross-roofing-company/#servicearea"
+        },
+        {
+          "@id": "https://inspector-roofing.com/#roofingcontractor"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Inspector Roofing Protocols"
+        },
+        {
+          "@type": "Thing",
+          "name": "Claim Verifiability"
+        },
+        {
+          "@type": "Thing",
+          "name": "Code-to-spec roofing scope"
+        },
+        {
+          "@type": "Thing",
+          "name": "Verified roof documentation"
+        }
+      ],
+      "breadcrumb": {
+        "@id": "https://inspector-roofing.com/norcross-roofing-company/#breadcrumb"
+      },
+      "isPartOf": {
+        "@id": "https://inspector-roofing.com/#website"
+      },
+      "provider": {
+        "@id": "https://inspector-roofing.com/#roofingcontractor"
+      },
+      "potentialAction": {
+        "@type": "ScheduleAction",
+        "name": "Schedule a roofing company appointment in Norcross",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://inspector-roofing.com/contact-us/",
+          "actionPlatform": [
+            "https://schema.org/DesktopWebPlatform",
+            "https://schema.org/MobileWebPlatform"
+          ]
+        }
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#ir-norcross-roofing-company-public-title",
+          "#ir-norcross-roofing-company-public .lead"
+        ]
+      }
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://inspector-roofing.com/norcross-roofing-company/#primaryimage",
+      "url": "https://inspector-roofing.com/wp-content/uploads/2026/06/inspector-roofing-norcross-ga.png",
+      "caption": "Norcross roofing documentation by Inspector Roofing and Restoration",
+      "creditText": "Inspector Roofing and Restoration",
+      "creator": {
+        "@type": "Organization",
+        "name": "Inspector Roofing and Restoration"
+      },
+      "copyrightNotice": "Inspector Roofing and Restoration",
+      "license": "https://inspector-roofing.com",
+      "acquireLicensePage": "https://inspector-roofing.com/contact-us/"
+    },
+    {
+      "@type": "City",
+      "@id": "https://inspector-roofing.com/norcross-roofing-company/#servicearea",
+      "name": "Norcross, GA",
+      "containedInPlace": {
+        "@type": "AdministrativeArea",
+        "name": "Gwinnett County"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 33.941,
+        "longitude": -84.213
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://inspector-roofing.com/norcross-roofing-company/#service",
+      "name": "Norcross roofing company from Inspector Roofing and Restoration",
+      "serviceType": "roofing company",
+      "category": [
+        "Roofing contractor",
+        "Roof inspection",
+        "Roof repair",
+        "Roof replacement",
+        "Storm damage documentation",
+        "Insurance roof documentation"
+      ],
+      "description": "Inspector Roofing serves Norcross with inspection-first roof replacement, roof repair, roof inspections, storm damage documentation, retail roofing, financing guidance, and insurance-ready roof files.",
+      "provider": {
+        "@id": "https://inspector-roofing.com/#roofingcontractor"
+      },
+      "areaServed": {
+        "@id": "https://inspector-roofing.com/norcross-roofing-company/#servicearea"
+      },
+      "url": "https://inspector-roofing.com/norcross-roofing-company/",
+      "mainEntityOfPage": {
+        "@id": "https://inspector-roofing.com/norcross-roofing-company/#webpage"
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Homeowners, property managers, HOAs, real estate professionals, and commercial property owners"
+      },
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceUrl": "https://inspector-roofing.com/norcross-roofing-company/",
+        "servicePhone": {
+          "@type": "ContactPoint",
+          "telephone": "+1-678-287-7169",
+          "contactType": "roofing service scheduling",
+          "areaServed": "US-GA"
+        }
+      }
+    },
+    {
+      "@type": [
+        "LocalBusiness",
+        "RoofingContractor"
+      ],
+      "@id": "https://inspector-roofing.com/#roofingcontractor",
+      "name": "Inspector Roofing and Restoration",
+      "url": "https://inspector-roofing.com",
+      "telephone": "+1-678-287-7169",
+      "email": "richard@inspector-roofing.com",
+      "priceRange": "$$",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1875 Lockeway Dr STE 701",
+        "addressLocality": "Alpharetta",
+        "addressRegion": "GA",
+        "postalCode": "30004",
+        "addressCountry": "US"
+      },
+      "areaServed": {
+        "@id": "https://inspector-roofing.com/norcross-roofing-company/#servicearea"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+1-678-287-7169",
+        "email": "richard@inspector-roofing.com",
+        "contactType": "customer service",
+        "areaServed": "US-GA",
+        "availableLanguage": "English"
+      },
+      "knowsAbout": [
+        "roof replacement",
+        "roof repair",
+        "roof inspection",
+        "insurance claim documentation",
+        "storm damage roof inspection",
+        "retail roofing",
+        "code-to-spec roofing scope",
+        "verified roof documentation",
+        "Inspector Roofing Protocols",
+        "Claim Verifiability"
+      ],
+      "makesOffer": {
+        "@id": "https://inspector-roofing.com/norcross-roofing-company/#service"
+      },
+      "sameAs": [
+        "https://www.bbb.org/us/ga/alpharetta/profile/roofing-contractors/inspector-roofing-and-restoration-0443-28053608",
+        "https://www.trustindex.io/reviews/inspector-roofing.com"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://inspector-roofing.com/norcross-roofing-company/#faq",
+      "mainEntityOfPage": {
+        "@id": "https://inspector-roofing.com/norcross-roofing-company/#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the first step before roof repair or replacement in Norcross?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Start with an inspection-first roof assessment. Inspector Roofing documents visible roof conditions before recommending repair, replacement, storm documentation, financing resources, commercial roofing, or insurance-related next steps."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Inspector Roofing help with insurance documentation in Norcross?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Inspector Roofing helps organize insurance-ready roof documentation, photos, measurements when appropriate, storm indicators, repairability information, and claim-context details. The company does not act as a public adjuster, interpret policy coverage, negotiate claims, or guarantee claim approval."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can Inspector Roofing repair roofs in Norcross?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Repair needs may include leaks, missing shingles, flashing, pipe boots, lifted shingles, wind-related concerns, storm-related repairs, and emergency protection."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you replace residential roofs in Norcross?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Inspector Roofing helps homeowners plan roof replacement with shingle selection, code-to-spec scope review, ventilation, accessories, cleanup, property protection, financing resources, and documentation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you serve areas near Historic Norcross, Peachtree Industrial Boulevard, Jimmy Carter Boulevard, Buford Highway, Beaver Ruin Road, and the Gwinnett Village area?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Inspector Roofing serves homeowners, HOAs, property managers, and commercial property owners around Historic Norcross, Peachtree Industrial Boulevard, Jimmy Carter Boulevard, Buford Highway, Beaver Ruin Road, and the Gwinnett Village area."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should I do if I am not sure whether I need repair or replacement?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Schedule an inspection first. The roof file can help separate repair needs, replacement timing, storm documentation, financing options, commercial concerns, and insurance-related documentation."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://inspector-roofing.com/norcross-roofing-company/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://inspector-roofing.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Norcross Roofing Company for Roof Replacement, Roof Repair, Roof Inspection and Insurance Claims",
+          "item": "https://inspector-roofing.com/norcross-roofing-company/"
+        }
+      ]
+    }
+  ]
+}
