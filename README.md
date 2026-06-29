@@ -18,6 +18,10 @@ The project studies how local roofing search has moved from comparison phrases l
 - Academia.edu paper: https://www.academia.edu/168911051/From_Best_to_Trusted_A_DOI_Backed_Study_of_Google_Algorithm_Evolution_AI_Answers_Trust_Signals_and_Local_Roofing_Search
 - Amazon book: https://www.amazon.com/dp/B0H63DV2LR
 - AI visibility study: https://richnass87.github.io/roofing-near-me-ai-visibility-study/
+- Roofing Search Integrity Report GitHub: https://github.com/RichNass87/inspector-roofing-search-integrity-report
+- Roofing Search Integrity Report Hugging Face Dataset: https://huggingface.co/datasets/InspectorRoofing/roofing-search-integrity-report
+- Roofing Search Integrity Report Hugging Face Demo: https://huggingface.co/spaces/InspectorRoofing/roofing-search-integrity-demo
+- Roofing Search Integrity Report Kaggle Dataset: https://www.kaggle.com/datasets/inspectorroofing/roofing-search-integrity-report
 
 ## What This Repository Contains
 
